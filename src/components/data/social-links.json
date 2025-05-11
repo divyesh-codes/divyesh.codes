@@ -1,0 +1,39 @@
+{
+    "socialLinks": [
+        { 
+            "name": "LinkedIn", 
+            "link": "https://www.linkedin.com/in/divyesh-codes",
+            "lightImg": "assets/png/linkedin-light.png",
+            "darkImg" : "assets/png/linkedin.png",
+            "alt" : "Divyesh Codes Linkedin Profile"
+        },
+        { 
+            "name": "Whatsapp", 
+            "link": "https://wa.me/9157762508",
+            "lightImg": "assets/png/whatsapp-light.png",
+            "darkImg" : "assets/png/whatsapp.png",
+            "alt" : "Divyesh Codes Whatsapp Profile"
+        },
+        { 
+            "name": "GitHub", 
+            "link": "https://github.com/divyesh-codes",
+            "lightImg": "assets/png/github-light.png",
+            "darkImg" : "assets/png/github.png",
+            "alt" : "Divyesh Codes Github Profile"
+        },
+        { 
+            "name": "Instagram", 
+            "link": "https://www.instagram.com/divyesh.codes",
+            "lightImg": "assets/png/instagram-light.png",
+            "darkImg" : "assets/png/instagram.png",
+            "alt" : "Divyesh Codes Instagram Profile"
+        },
+        { 
+            "name": "Twitter", 
+            "link": "https://x.com/divyeshcodes",
+            "lightImg": "assets/png/twitter-light.png",
+            "darkImg" : "assets/png/twitter.png",
+            "alt" : "Divyesh Codes Twitter Profile"
+        }
+    ]
+}
