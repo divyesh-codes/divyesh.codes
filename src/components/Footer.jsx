@@ -34,7 +34,7 @@ const Footer = () => {
             {/* <!-- If you give me some credit or shoutout here by linking to my website, then it will be a big thing for me and will help me a lot :) --> */}
             <div className="main-footer__lower">
                 &copy; Copyright {new Date().getFullYear()}. Made by
-                <a rel="noreferrer" target="_blank" href="https://divyesh-Codes.vercel.app">
+                <a rel="noreferrer" target="_blank" href="https://divyeshcodes.vercel.app">
                     Divyesh Codes
                 </a>
             </div>
